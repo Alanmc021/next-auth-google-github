@@ -32,3 +32,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+Project Title: Next-Auth Google GitHub Boilerplate
+
+Description:
+The Next-Auth Google GitHub Boilerplate is a comprehensive starter template hosted on GitHub, designed to streamline the authentication process within Next.js applications. Leveraging the power of Next.js along with Next-Auth, this boilerplate integrates authentication seamlessly with both Google and GitHub OAuth providers, offering a robust foundation for building secure and scalable web applications.
+
+Key Features:
+
+Next.js Integration: Built upon Next.js, providing server-side rendering and efficient client-side navigation for a smooth user experience.
+Next-Auth Configuration: Easily configure authentication settings through Next-Auth, enabling secure authentication flows.
+Google and GitHub Integration: Incorporates OAuth authentication with Google and GitHub, allowing users to sign in using their existing accounts from these platforms.
+Customizable Templates: Includes customizable templates for login, signup, and authentication callback pages, ensuring flexibility in design and branding.
+Scalable Architecture: Structured with scalability in mind, making it suitable for projects of varying sizes and complexities.
+Documentation: Comprehensive documentation provided to guide developers through setup, customization, and usage of the boilerplate.
+Why Use This Boilerplate?
+
+Rapid Development: Jumpstart your Next.js projects with pre-configured authentication, saving valuable development time.
+Security: Implement secure authentication mechanisms backed by Google and GitHub OAuth providers.
+Flexibility: Easily tailor the boilerplate to fit your project requirements, thanks to its modular and customizable architecture.
+Community Support: Benefit from the active Next.js and Next-Auth communities, ensuring ongoing support and updates.
+Get Started:
+Clone or fork the repository from GitHub, follow the setup instructions in the documentation, and start building secure, authenticated Next.js applications effortlessly with Next-Auth Google GitHub Boilerplate.
